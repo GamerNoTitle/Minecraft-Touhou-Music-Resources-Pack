@@ -81,6 +81,8 @@ The resource pack can be used in every version of the Minecraft game **in theory
 `nether4.ogg` Foxtail-Grass Studio - 桜花烂漫、梦游幻界
 
 ---
+![](https://gamernotitle.coding.net/p/Minecraft-Touhou-Music-Pack/d/Minecraft-Touhou-Music-Pack/git/raw/master/pack.png)
+
 材质包中灵梦的表情包来源于网络
 
 The picture of Hakurei Reimu in the resource pack icon comes from Internet
